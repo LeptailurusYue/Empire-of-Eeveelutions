@@ -1,6 +1,10 @@
 TODO List:
 测试中文能不能用
 
+
+月：
+打算给梦幻加隐身，给创造者事件链的结局事件写个新星系，把一些同人文塞到核子的面板里。
+
 Immediate: 
 
  * Possibly replace the mint system with something akin to the 'held item' system in pokemon (thus also removing the leftovers and making that one of the held items)
